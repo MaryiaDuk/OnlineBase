@@ -1,2 +1,2 @@
-Ksenia;Voronina;24.04.1996;true
-Maria;Duk;11.11.1996;true
+Ksenia;Voronina;1996-04-24;true
+Maria;Duk;1996-11-11;true
