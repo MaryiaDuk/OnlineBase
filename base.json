@@ -1,0 +1,16 @@
+{
+  "hospital": [
+    {
+      "firstName": "Ульяна",
+      "secondName": "Лисица",
+      "birthday": "16-11-2002",
+      "stateOfHealth": "здоров"
+    },
+    {
+      "firstName": "Саша",
+      "secondName": "Ковалев",
+      "birthday": "15-07-1997",
+      "stateOfHealth": "не здоров"
+    }
+  ]
+}
