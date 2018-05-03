@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<hospital>
+    <patient>
+        <name>Ульяна</name>
+        <secondName>Лисица</secondName>
+        <birthday>2002-11-16</birthday>
+        <stateOfHealth>true</stateOfHealth>
+    </patient>
+    <patient>
+        <name>Саша</name>
+        <secondName>Ковалев</secondName>
+        <birthday>1997-07-15</birthday>
+        <stateOfHealth>true</stateOfHealth>
+    </patient>
+</hospital>
